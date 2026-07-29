@@ -1,9 +1,6 @@
 # microsoft-sc900-zero-trust-blueprint
 A comprehensive Zero Trust security architecture case study (Financial Services / Hybrid Workplace) and quick reference guide for Microsoft Security, Compliance, and Identity Fundamentals (SC-900).
 
-# microsoft-sc900-zero-trust-blueprint
-Comprehensive Zero Trust security architecture case study (Financial Services / Hybrid Workplace) and quick reference guide for Microsoft Security, Compliance, and Identity Fundamentals (SC-900).
-
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Certification](https://img.shields.io/badge/SC--900-Preparing-yellow?style=for-the-badge)
 ![Security Architecture](https://img.shields.io/badge/Architecture-Zero_Trust-blue?style=for-the-badge)
