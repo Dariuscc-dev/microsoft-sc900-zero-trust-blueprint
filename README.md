@@ -71,5 +71,5 @@ A financial services company is transitioning to a permanent hybrid work model. 
 
 ## Official Certification
 * **Exam:** SC-900: Microsoft Security, Compliance, and Identity Fundamentals
-* * **Date Achieved:** 21st August
+* **Date Achieved:** 21st August
 * **Status:** ✅ Passed / Officially Certified
